@@ -1,0 +1,4 @@
+venv
+.env
+outputs
+.ipynb_checkpoints
